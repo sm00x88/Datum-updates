@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
-  "file": "DATUM-Project-1.2.3.asar",
-  "size": 374307,
-  "sha256": "bf92515d09a535d11a85c37f42402db17974ad98f5cade1fec90f304a8495905",
-  "notes": "Choose your server folder once: Open/Import and Save go straight there, with dated local backups of every version and Restore from backup. New milestones go to the top of the programme. Includes Bar colour by person and note indicators.",
-  "publishedAt": "2026-10-14T13:15:32.729Z",
-  "signature": "Ok7l9stx/NQ/eBoPOKGwjc1m6yifFrJN/dtBph82yGaOsVO20u4RvL4ItJ0QjMDvf6Kso7K9+2eJ6pYvaVEVDw=="
+  "version": "1.2.4",
+  "file": "DATUM-Project-1.2.4.asar",
+  "size": 379379,
+  "sha256": "12df688ab91fd9f562eb222d41344556d8b32342f57663428381adf20582a5e5",
+  "notes": "Drag a programme file onto DATUM Project to open it. Files record who saved them. Includes file locations and backups, milestones at the top, bar colours and notes.",
+  "publishedAt": "2026-10-14T16:19:26.526Z",
+  "signature": "EJofj+a1xDJ5Ysss80c9IIBZ5PufPJ7wZPYM5DjPLxuor2WQ3GoYtqgaA7WOL0oJr2bu/OHiXVCRt6SdixUTBw=="
 }
