@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "file": "DATUM-1.0.5.asar",
-  "size": 4233013,
-  "sha256": "336b2d3507711671e34d66519c57ed3b1acc3e1dc8ae6706b9fa639b557a6006",
-  "notes": "Notes now have a clear indicator beside their task or project name. Hover to preview, click to read in full, and optionally mark the note as read. Changed notes are highlighted again so updates are easy to notice. Also includes Bar colour by Section or Person.",
-  "publishedAt": "2026-10-14T09:48:59.583Z",
-  "signature": "DiQI5p/p7EP035JdLzH34kVcl+DzMsriYXRSILrhuuQw/bIu3f7aR6PRUjxJb0gJ5HtBrMkAyyYnfkgqu0hyCw=="
+  "version": "1.0.6",
+  "file": "DATUM-1.0.6.asar",
+  "size": 4273240,
+  "sha256": "de43f6855117e972211e1d817f1a60b5cc36590449e76f470a289ff7991fabd5",
+  "notes": "Choose your server folder once: Open/Import and Save go straight there, with dated local backups of every version and Restore from backup. New milestones go to the top of the programme. Includes Bar colour by person and note indicators. Adding people starts with your studio team; fixes closing Studio's project editor.",
+  "publishedAt": "2026-10-14T13:15:32.445Z",
+  "signature": "AzdWbkhDByrEb+JR4vxgIdAkPh5cLxx2Ms2d5WQIbMTQQ2VyJk/V9omOp6vht3Ah36Y86cPc8/SPrGK0+cMqAg=="
 }
