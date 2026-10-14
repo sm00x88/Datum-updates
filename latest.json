@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "file": "DATUM-1.0.4.asar",
-  "size": 4217711,
-  "sha256": "7f1b77a3806b70d149b2d1fee2da5bef8e634c4cf77fe339905118f6f5fdaafc",
-  "notes": "Bar colour by Section or Person: a new option next to Chart zoom in every programme colours task bars in each person's colour, with shared tasks split into bands. The PDF follows the chosen mode.",
-  "publishedAt": "2026-10-14T09:27:48.598Z",
-  "signature": "5c1VZYFQDZ0NVi45MiWv2qjsZDT4ly4y10k8u8ole5e5EWpO6rSNlglaK7bhe3NIsqxQm8ypkWuWB+W2zzl3DQ=="
+  "version": "1.0.5",
+  "file": "DATUM-1.0.5.asar",
+  "size": 4233013,
+  "sha256": "336b2d3507711671e34d66519c57ed3b1acc3e1dc8ae6706b9fa639b557a6006",
+  "notes": "Notes now have a clear indicator beside their task or project name. Hover to preview, click to read in full, and optionally mark the note as read. Changed notes are highlighted again so updates are easy to notice. Also includes Bar colour by Section or Person.",
+  "publishedAt": "2026-10-14T09:48:59.583Z",
+  "signature": "DiQI5p/p7EP035JdLzH34kVcl+DzMsriYXRSILrhuuQw/bIu3f7aR6PRUjxJb0gJ5HtBrMkAyyYnfkgqu0hyCw=="
 }
