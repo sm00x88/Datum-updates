@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "file": "DATUM-1.0.9.asar",
-  "size": 4324383,
-  "sha256": "5229e8189622e7c8b92a2e1bf9378c8fead96bb1104434b252a3345d0eb18fdd",
-  "notes": "Programmes now have a Status: Quote, Won – to start, Live, On hold, Complete or Lost. A quote shows its planned staff cost, margin and suggested fee, and doesn't count against people's time in Studio unless you tick Include quotes.",
-  "publishedAt": "2026-10-15T13:26:52.864Z",
-  "signature": "sajb/3vbBL+HsdMyOIjg1NcgNYIsAIBmlikWxcSYCUAac3u14LYJsnwk7j21teuWq0MqkvKcQyFjthHpIceJBQ=="
+  "version": "1.0.10",
+  "file": "DATUM-1.0.10.asar",
+  "size": 4328226,
+  "sha256": "faa3291266db2adfaae4a4c5330db32f16d11f675ecfd69876ef0a6b984e50c3",
+  "notes": "New: ⋯ → Delete projects… to delete several (or all) projects at once; they can be put back for 30 days. Includes 1.0.9: programme Status and quotes.",
+  "publishedAt": "2026-10-15T14:57:29.031Z",
+  "signature": "6XFQQZvrBWI0U7ruL7pjwhD89HdWZfUsHpAJ6UvfYqkaU+qZaIfhK2lX4QFNb08bQQp1MZkK1NiW62xk73pDAA=="
 }
