@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "file": "DATUM-1.0.7.asar",
-  "size": 4282426,
-  "sha256": "443aa29b1ce68f656917d56ec2352b13ae1d0503e2b4d0eb4b21bf904c679394",
-  "notes": "Import or drop a returned programme file: DATUM shows what changed and who saved it, and updates your programme after you check. Drag .agantt files onto DATUM. Files record who saved them. Includes file locations and backups, milestones at the top, bar colours and notes.",
-  "publishedAt": "2026-10-14T16:19:26.197Z",
-  "signature": "NEQmeu9j0Oq5GKT9HAG1gM1Swi7vcU5AHgkW7NwmmfazgdpdrFktzezd5HEK3etIDcoaQeLxC20FQSSUwneYCA=="
+  "version": "1.0.8",
+  "file": "DATUM-1.0.8.asar",
+  "size": 4315859,
+  "sha256": "bba91fd7112b24e94991a06c9f4703c42dd21d449298c5a281ae96436d9a2058",
+  "notes": "Set each person's rate and hours in Studio's Edit team: every programme they're on follows. Studio leave, closures and working patterns are offered to each programme for review before any dates move. In a shared studio, the host computer keeps the server copies (and hosting/joining now works in the desktop app).",
+  "publishedAt": "2026-10-15T09:39:16.916Z",
+  "signature": "g6d1rizisTtIHmodoDEk3jtp/s7pVYhDOjonmtLiSxLtjmYewtusG2O0EkN27TnkaKJ/Y4OqRV0Iy5CPvlUkDQ=="
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "file": "DATUM-Project-1.2.4.asar",
-  "size": 379379,
-  "sha256": "12df688ab91fd9f562eb222d41344556d8b32342f57663428381adf20582a5e5",
-  "notes": "Drag a programme file onto DATUM Project to open it. Files record who saved them. Includes file locations and backups, milestones at the top, bar colours and notes.",
-  "publishedAt": "2026-10-14T16:19:26.526Z",
-  "signature": "EJofj+a1xDJ5Ysss80c9IIBZ5PufPJ7wZPYM5DjPLxuor2WQ3GoYtqgaA7WOL0oJr2bu/OHiXVCRt6SdixUTBw=="
+  "version": "1.2.5",
+  "file": "DATUM-Project-1.2.5.asar",
+  "size": 380059,
+  "sha256": "c9c5475bca5eeb08de65e8c353f21630ccbc168b794e3f585e3dce5036ba6d3b",
+  "notes": "Programmes from DATUM keep each person's working days (set in DATUM Studio), so DATUM Project schedules them on the same dates as DATUM.",
+  "publishedAt": "2026-10-15T08:49:47.095Z",
+  "signature": "p7QdJKOetz2p3574jS1tRBOVq9aCvFhPx2jRL2qDpozPWLI8vm2Q/622HUNSMmhPFLdkS3ztcCBD7jYfPw1HCw=="
 }
