@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "file": "DATUM-1.0.8.asar",
-  "size": 4315859,
-  "sha256": "bba91fd7112b24e94991a06c9f4703c42dd21d449298c5a281ae96436d9a2058",
-  "notes": "Set each person's rate and hours in Studio's Edit team: every programme they're on follows. Studio leave, closures and working patterns are offered to each programme for review before any dates move. In a shared studio, the host computer keeps the server copies (and hosting/joining now works in the desktop app).",
-  "publishedAt": "2026-10-15T09:39:16.916Z",
-  "signature": "g6d1rizisTtIHmodoDEk3jtp/s7pVYhDOjonmtLiSxLtjmYewtusG2O0EkN27TnkaKJ/Y4OqRV0Iy5CPvlUkDQ=="
+  "version": "1.0.9",
+  "file": "DATUM-1.0.9.asar",
+  "size": 4324383,
+  "sha256": "5229e8189622e7c8b92a2e1bf9378c8fead96bb1104434b252a3345d0eb18fdd",
+  "notes": "Programmes now have a Status: Quote, Won – to start, Live, On hold, Complete or Lost. A quote shows its planned staff cost, margin and suggested fee, and doesn't count against people's time in Studio unless you tick Include quotes.",
+  "publishedAt": "2026-10-15T13:26:52.864Z",
+  "signature": "sajb/3vbBL+HsdMyOIjg1NcgNYIsAIBmlikWxcSYCUAac3u14LYJsnwk7j21teuWq0MqkvKcQyFjthHpIceJBQ=="
 }

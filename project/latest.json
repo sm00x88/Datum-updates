@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "file": "DATUM-Project-1.2.5.asar",
-  "size": 380059,
-  "sha256": "c9c5475bca5eeb08de65e8c353f21630ccbc168b794e3f585e3dce5036ba6d3b",
-  "notes": "Programmes from DATUM keep each person's working days (set in DATUM Studio), so DATUM Project schedules them on the same dates as DATUM.",
-  "publishedAt": "2026-10-15T08:49:47.095Z",
-  "signature": "p7QdJKOetz2p3574jS1tRBOVq9aCvFhPx2jRL2qDpozPWLI8vm2Q/622HUNSMmhPFLdkS3ztcCBD7jYfPw1HCw=="
+  "version": "1.2.6",
+  "file": "DATUM-Project-1.2.6.asar",
+  "size": 384378,
+  "sha256": "9ed6548f9f3da6e97abb521dc57ba0dcc41a0872bed6668ba280d9b5e800f79b",
+  "notes": "Programmes now have a Status: Quote, Won – to start, Live, On hold, Complete or Lost. A quote shows its planned staff cost, margin and suggested fee.",
+  "publishedAt": "2026-10-15T13:28:32.422Z",
+  "signature": "Lr5zU5QNLUM132Sl95SDf/JJfj/f6j0cnmzIG9L6OAocpUOJQP/xlyEOZjmtlCeg0+8axm762zueSx0ca9lDBg=="
 }
