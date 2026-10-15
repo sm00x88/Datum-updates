@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6",
-  "file": "DATUM-Project-1.2.6.asar",
-  "size": 384378,
-  "sha256": "9ed6548f9f3da6e97abb521dc57ba0dcc41a0872bed6668ba280d9b5e800f79b",
-  "notes": "Programmes now have a Status: Quote, Won – to start, Live, On hold, Complete or Lost. A quote shows its planned staff cost, margin and suggested fee.",
-  "publishedAt": "2026-10-15T13:28:32.422Z",
-  "signature": "Lr5zU5QNLUM132Sl95SDf/JJfj/f6j0cnmzIG9L6OAocpUOJQP/xlyEOZjmtlCeg0+8axm762zueSx0ca9lDBg=="
+  "version": "1.2.7",
+  "file": "DATUM-Project-1.2.7.asar",
+  "size": 386266,
+  "sha256": "beb69c8ac40a4f3cc3a7492f8904f759fa778245e0c07c479ee09ac616886a0c",
+  "notes": "Status is now simply Quote or Live. People who came from DATUM Studio say so in their editor.",
+  "publishedAt": "2026-10-15T20:40:38.849Z",
+  "signature": "sZIBWXQ5XWZdA156esbFxeRR5HxQC9NL8EeqCSqShKj3xjNqGaM747UQtoncuR4udwqwSueP5Qw335e7Zm7RAA=="
 }

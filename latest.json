@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
-  "file": "DATUM-1.0.11.asar",
-  "size": 4345987,
-  "sha256": "5dde7b08c2f861921ef3fb79c05167a6aa2f89347b0734ed942ac29e9f28e1f6",
-  "notes": "Departments: name your own (Planning, Technical, Contracts…), put people and projects in them, and use Show in Studio to see one department or several together.",
-  "publishedAt": "2026-10-15T16:31:11.784Z",
-  "signature": "YDIG9DTrNK1YLPKkVhOjNO1LbFrFQM3ZaU96gEsoNd91mXvMqgfTEML7x2F6apRl+auEtCWVNJ+xwVwWmB0OAg=="
+  "version": "1.1.0",
+  "file": "DATUM-1.1.0.asar",
+  "size": 4371855,
+  "sha256": "a5aaae50eb2676a439b3414c6b7e6bb0f10cc1d9d24123253d007d920ffd0bf6",
+  "notes": "Simpler DATUM: Save programme is all you press when you're done; a programme is a Quote or Live; Studio looks after its people's details; the Weekly sheet sits next to Projects and Staff programme; the ⋯ menu is shorter.",
+  "publishedAt": "2026-10-15T20:31:15.696Z",
+  "signature": "wihr/F6AFlAgQmltg2ZfM7CA8nUMogMsW28muetIcU5O4lIjCs4D1EIsg7ncabQGvBKF92Yc3B5AFtbLWLifAg=="
 }
