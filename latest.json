@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
-  "file": "DATUM-1.0.10.asar",
-  "size": 4328226,
-  "sha256": "faa3291266db2adfaae4a4c5330db32f16d11f675ecfd69876ef0a6b984e50c3",
-  "notes": "New: ⋯ → Delete projects… to delete several (or all) projects at once; they can be put back for 30 days. Includes 1.0.9: programme Status and quotes.",
-  "publishedAt": "2026-10-15T14:57:29.031Z",
-  "signature": "6XFQQZvrBWI0U7ruL7pjwhD89HdWZfUsHpAJ6UvfYqkaU+qZaIfhK2lX4QFNb08bQQp1MZkK1NiW62xk73pDAA=="
+  "version": "1.0.11",
+  "file": "DATUM-1.0.11.asar",
+  "size": 4345987,
+  "sha256": "5dde7b08c2f861921ef3fb79c05167a6aa2f89347b0734ed942ac29e9f28e1f6",
+  "notes": "Departments: name your own (Planning, Technical, Contracts…), put people and projects in them, and use Show in Studio to see one department or several together.",
+  "publishedAt": "2026-10-15T16:31:11.784Z",
+  "signature": "YDIG9DTrNK1YLPKkVhOjNO1LbFrFQM3ZaU96gEsoNd91mXvMqgfTEML7x2F6apRl+auEtCWVNJ+xwVwWmB0OAg=="
 }
