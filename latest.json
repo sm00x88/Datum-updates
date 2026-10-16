@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "file": "DATUM-1.1.0.asar",
-  "size": 4371855,
-  "sha256": "a5aaae50eb2676a439b3414c6b7e6bb0f10cc1d9d24123253d007d920ffd0bf6",
-  "notes": "Simpler DATUM: Save programme is all you press when you're done; a programme is a Quote or Live; Studio looks after its people's details; the Weekly sheet sits next to Projects and Staff programme; the ⋯ menu is shorter.",
-  "publishedAt": "2026-10-15T20:31:15.696Z",
-  "signature": "wihr/F6AFlAgQmltg2ZfM7CA8nUMogMsW28muetIcU5O4lIjCs4D1EIsg7ncabQGvBKF92Yc3B5AFtbLWLifAg=="
+  "version": "1.1.1",
+  "file": "DATUM-1.1.1.asar",
+  "size": 4372527,
+  "sha256": "436a04dd3e030a81041bbc865c17f7ed118a93e659716036ed745a28d9140d2b",
+  "notes": "The Weekly sheet now updates straight away when leave, closures, the team or a programme change while it's on screen.",
+  "publishedAt": "2026-10-16T09:49:16.112Z",
+  "signature": "3QiZClDDawSyIfFKKyheQVPJA/h567ac3oi+HKIklgrKtj4tXC2gggrY5JHDbUDYFiQpj6uQZCos69+Zd51fAw=="
 }
