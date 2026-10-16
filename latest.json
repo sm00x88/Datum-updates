@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "file": "DATUM-1.1.1.asar",
-  "size": 4372527,
-  "sha256": "436a04dd3e030a81041bbc865c17f7ed118a93e659716036ed745a28d9140d2b",
-  "notes": "The Weekly sheet now updates straight away when leave, closures, the team or a programme change while it's on screen.",
-  "publishedAt": "2026-10-16T09:49:16.112Z",
-  "signature": "3QiZClDDawSyIfFKKyheQVPJA/h567ac3oi+HKIklgrKtj4tXC2gggrY5JHDbUDYFiQpj6uQZCos69+Zd51fAw=="
+  "version": "1.1.2",
+  "file": "DATUM-1.1.2.asar",
+  "size": 4373120,
+  "sha256": "a1a7e6815651578ce105f0154c9b51895b64a8baf97011cdc2f8ec384dbfd076",
+  "notes": "The Weekly sheet makes leave, office closures and over-booking easier to spot at a glance.",
+  "publishedAt": "2026-10-16T10:26:49.206Z",
+  "signature": "bYazmfWd5sw8ri+yjfgVIft5XaS3AnR2MDbtyj58kAchx1uOdeB+FESHQ9agIAKhdikmXluevmoMgH39SrRADg=="
 }
