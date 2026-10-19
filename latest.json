@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
-  "file": "DATUM-1.1.3.asar",
-  "size": 4375980,
-  "sha256": "a885f793d544c377010ef849138d0eaaf07c5944532348baa708003535f489f4",
-  "notes": "In a programme's People panel, Pick from the studio team now works on your own computer too, and someone just added in Edit team shows up straight away. Clicks in Studio no longer get lost while it redraws.",
-  "publishedAt": "2026-10-19T10:12:09.507Z",
-  "signature": "g5EQi5qMGm4nJGkTADDxSnefAD0tX+ISEYpQ9/ZgLg3fZ0iNdV7mZ/Qa8VSjKyuoof6HGrQJuC4mFhtwpl5gCg=="
+  "version": "1.1.4",
+  "file": "DATUM-1.1.4.asar",
+  "size": 4382510,
+  "sha256": "07d2a5864e2c30e0d998bb8c0b9853f7a9c82dc63a71bf32fb98a8aca4f838a2",
+  "notes": "Programme PDFs use the whole page: the full programme by default, with the days widened so bars are long enough to read. The desktop app saves the PDF itself on the paper size chosen, named after the programme, PROGRAM and the issue date.",
+  "publishedAt": "2026-10-19T11:24:11.122Z",
+  "signature": "yNPntk09H45yFUwz36Tls805pFiJJyk41t44qSXKQ/MnPqu75H7em/7aw/UaVBTfItaaFx1IRAL/qAGEipQMBA=="
 }

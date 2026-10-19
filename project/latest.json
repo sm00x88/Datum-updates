@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "file": "DATUM-Project-1.2.7.asar",
-  "size": 386266,
-  "sha256": "beb69c8ac40a4f3cc3a7492f8904f759fa778245e0c07c479ee09ac616886a0c",
-  "notes": "Status is now simply Quote or Live. People who came from DATUM Studio say so in their editor.",
-  "publishedAt": "2026-10-15T20:40:38.849Z",
-  "signature": "sZIBWXQ5XWZdA156esbFxeRR5HxQC9NL8EeqCSqShKj3xjNqGaM747UQtoncuR4udwqwSueP5Qw335e7Zm7RAA=="
+  "version": "1.2.8",
+  "file": "DATUM-Project-1.2.8.asar",
+  "size": 389070,
+  "sha256": "bc1de4a77f1cb3d1dd6d8dc0913ad3a221552ed2b20b67a348d030fd5de46bd3",
+  "notes": "Programme PDFs use the whole page: the full programme by default, days widened so bars are long enough to read, saved on the paper size chosen and named after the programme, PROGRAM and the issue date.",
+  "publishedAt": "2026-10-19T11:25:59.231Z",
+  "signature": "MCsfCFJ214G5mSm1HoTavtq5WQWE98qA8XcOmig4pb+cQJ7i/FN4oVPvLbHAemnBlR2P4+zS61w9PhBTxuPlDA=="
 }
