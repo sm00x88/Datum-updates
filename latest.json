@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "file": "DATUM-1.1.4.asar",
-  "size": 4382510,
-  "sha256": "07d2a5864e2c30e0d998bb8c0b9853f7a9c82dc63a71bf32fb98a8aca4f838a2",
-  "notes": "Programme PDFs use the whole page: the full programme by default, with the days widened so bars are long enough to read. The desktop app saves the PDF itself on the paper size chosen, named after the programme, PROGRAM and the issue date.",
-  "publishedAt": "2026-10-19T11:24:11.122Z",
-  "signature": "yNPntk09H45yFUwz36Tls805pFiJJyk41t44qSXKQ/MnPqu75H7em/7aw/UaVBTfItaaFx1IRAL/qAGEipQMBA=="
+  "version": "1.1.5",
+  "file": "DATUM-1.1.5.asar",
+  "size": 4387248,
+  "sha256": "ec70da29997a60e80c4a985595dedd4ccbcd0cc1d145d9564be537a1b14317ba",
+  "notes": "Fixes an update being rolled back when DATUM was opened a second time, or restarted, while it was still open. The chart now pans while you drag a task past its edge.",
+  "publishedAt": "2026-11-10T15:26:45.463Z",
+  "signature": "EzTTNA2RkCj0NcV+EJPZkcaIs2yNDwhDzsJqKNzqJ2ZGbeXkdtIdNZsKPihnQPEByFiIARK4NC1tpshMfv2aDQ=="
 }

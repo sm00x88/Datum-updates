@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "file": "DATUM-Project-1.2.8.asar",
-  "size": 389070,
-  "sha256": "bc1de4a77f1cb3d1dd6d8dc0913ad3a221552ed2b20b67a348d030fd5de46bd3",
-  "notes": "Programme PDFs use the whole page: the full programme by default, days widened so bars are long enough to read, saved on the paper size chosen and named after the programme, PROGRAM and the issue date.",
-  "publishedAt": "2026-10-19T11:25:59.231Z",
-  "signature": "MCsfCFJ214G5mSm1HoTavtq5WQWE98qA8XcOmig4pb+cQJ7i/FN4oVPvLbHAemnBlR2P4+zS61w9PhBTxuPlDA=="
+  "version": "1.2.9",
+  "file": "DATUM-Project-1.2.9.asar",
+  "size": 393810,
+  "sha256": "5ef776e25efa1410528e2d54f6ed356b89c07470716ae2ab083c80f59b31f4a8",
+  "notes": "Fixes an update being rolled back when DATUM Project was opened a second time, or restarted, while still open. The chart now pans while you drag a task past its edge.",
+  "publishedAt": "2026-11-10T15:13:25.342Z",
+  "signature": "aTlGcC82MG2FfBuN0p+g4DfGIAkY38dktPQVR9+Dr4zUZpi7VtFpiGxwa8pD5MIxP57RODuWkRXBJcMJNTwcDg=="
 }
