@@ -1,9 +1,9 @@
 {
-  "version": "1.2.9",
-  "file": "DATUM-Project-1.2.9.asar",
-  "size": 393810,
-  "sha256": "5ef776e25efa1410528e2d54f6ed356b89c07470716ae2ab083c80f59b31f4a8",
-  "notes": "Fixes an update being rolled back when DATUM Project was opened a second time, or restarted, while still open. The chart now pans while you drag a task past its edge.",
-  "publishedAt": "2026-11-10T15:13:25.342Z",
-  "signature": "aTlGcC82MG2FfBuN0p+g4DfGIAkY38dktPQVR9+Dr4zUZpi7VtFpiGxwa8pD5MIxP57RODuWkRXBJcMJNTwcDg=="
+  "version": "1.2.10",
+  "file": "DATUM-Project-1.2.10.asar",
+  "size": 394651,
+  "sha256": "b4e369510e4c7bbd3a5d7337f428a9cf6da142050142a5506c117bf763aee63e",
+  "notes": "Stops a notice about an earlier update being shown at every start.",
+  "publishedAt": "2026-11-10T16:03:54.874Z",
+  "signature": "ij/YCSu2PzYGpop5Elx7YGh3AdBXJW6FKWzcwAt/JBIWsGIx0JN5nQtpYwuxbEW6H7mHsKKLPJWI7VotYkX6AA=="
 }

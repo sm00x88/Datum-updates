@@ -1,9 +1,9 @@
 {
-  "version": "1.1.5",
-  "file": "DATUM-1.1.5.asar",
-  "size": 4387248,
-  "sha256": "ec70da29997a60e80c4a985595dedd4ccbcd0cc1d145d9564be537a1b14317ba",
-  "notes": "Fixes an update being rolled back when DATUM was opened a second time, or restarted, while it was still open. The chart now pans while you drag a task past its edge.",
-  "publishedAt": "2026-11-10T15:26:45.463Z",
-  "signature": "EzTTNA2RkCj0NcV+EJPZkcaIs2yNDwhDzsJqKNzqJ2ZGbeXkdtIdNZsKPihnQPEByFiIARK4NC1tpshMfv2aDQ=="
+  "version": "1.1.6",
+  "file": "DATUM-1.1.6.asar",
+  "size": 4388085,
+  "sha256": "605abffa4431c8b90101a8ec475e0f1e6b71f4e5af58f43f037a867730bd7a79",
+  "notes": "Stops a notice about an earlier update being shown at every start.",
+  "publishedAt": "2026-11-10T16:03:55.912Z",
+  "signature": "46HkoH/23i4yWyvziouoGA25VzJVmblpw6y3SXamchU+e1TzgzAJ4ZfF83d29J5pUh2K8r0EQ0o7cNmeAMSTAA=="
 }
