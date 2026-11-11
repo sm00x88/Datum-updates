@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
-  "file": "DATUM-1.1.6.asar",
-  "size": 4388085,
-  "sha256": "605abffa4431c8b90101a8ec475e0f1e6b71f4e5af58f43f037a867730bd7a79",
-  "notes": "Stops a notice about an earlier update being shown at every start.",
-  "publishedAt": "2026-11-10T16:03:55.912Z",
-  "signature": "46HkoH/23i4yWyvziouoGA25VzJVmblpw6y3SXamchU+e1TzgzAJ4ZfF83d29J5pUh2K8r0EQ0o7cNmeAMSTAA=="
+  "version": "1.2.0",
+  "file": "DATUM-1.2.0.asar",
+  "size": 4418359,
+  "sha256": "c77c352ed02aef8568f3846d5964162c74fb433c260778ef7eff2afeb47f306f",
+  "notes": "Confirm each week's time from the Weekly sheet in a few clicks, and see where every job's fee stands: spent, still to do, and what will be left.",
+  "publishedAt": "2026-11-11T13:51:32.032Z",
+  "signature": "IBMpoIQYZH3i0/GSu+5hwTSFhsBss5ftuIBLfKbOq0C1Cij23MtibKaxY67U0Q6ee1qdm0BzfG9al446KMxDCw=="
 }
