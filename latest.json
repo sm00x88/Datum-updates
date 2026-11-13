@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "file": "DATUM-1.2.0.asar",
-  "size": 4418359,
-  "sha256": "c77c352ed02aef8568f3846d5964162c74fb433c260778ef7eff2afeb47f306f",
-  "notes": "Confirm each week's time from the Weekly sheet in a few clicks, and see where every job's fee stands: spent, still to do, and what will be left.",
-  "publishedAt": "2026-11-11T13:51:32.032Z",
-  "signature": "IBMpoIQYZH3i0/GSu+5hwTSFhsBss5ftuIBLfKbOq0C1Cij23MtibKaxY67U0Q6ee1qdm0BzfG9al446KMxDCw=="
+  "version": "1.2.1",
+  "file": "DATUM-1.2.1.asar",
+  "size": 4418834,
+  "sha256": "6bfd6b962672583ccf263bdbc9d3f348233c0a306431592b990636d8afaa68f6",
+  "notes": "Fixes an error box (\"Object has been destroyed\") that could appear when DATUM was opened again, or restarted after an update, while it was still closing.",
+  "publishedAt": "2026-11-13T15:10:16.414Z",
+  "signature": "C2ldAyx8T3ISh2qcX1QgrxYwfh5Ze6CYGXbzyMwBCATTTSbCiDaipjt/buO5E53hkGXi6ZVBGv8OTu/eMWgSAw=="
 }

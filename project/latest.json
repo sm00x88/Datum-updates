@@ -1,9 +1,9 @@
 {
-  "version": "1.2.10",
-  "file": "DATUM-Project-1.2.10.asar",
-  "size": 394651,
-  "sha256": "b4e369510e4c7bbd3a5d7337f428a9cf6da142050142a5506c117bf763aee63e",
-  "notes": "Stops a notice about an earlier update being shown at every start.",
-  "publishedAt": "2026-11-10T16:03:54.874Z",
-  "signature": "ij/YCSu2PzYGpop5Elx7YGh3AdBXJW6FKWzcwAt/JBIWsGIx0JN5nQtpYwuxbEW6H7mHsKKLPJWI7VotYkX6AA=="
+  "version": "1.2.11",
+  "file": "DATUM-Project-1.2.11.asar",
+  "size": 394797,
+  "sha256": "12240cf1b98c385e469175e588a1be5bc6a6ec42b0d6f3bee543c4913ba008d9",
+  "notes": "Fixes an error box (\"Object has been destroyed\") that could appear when DATUM Project was opened again while it was still closing.",
+  "publishedAt": "2026-11-13T15:10:16.531Z",
+  "signature": "WiV7lcJRggrnZSUXTlErQSIMKxJG5rH8s2DctIuBCfpRr29RtdqIzMoMifxeSnuVEZAq914qt2NOBKiwBwgwCw=="
 }
