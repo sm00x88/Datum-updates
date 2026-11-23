@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "file": "DATUM-1.2.2.asar",
-  "size": 4420014,
-  "sha256": "d57b84e50c31f9439347e52f0410ee8685238472013cc25a4eefe3427ea79678",
-  "notes": "Copy a programme file (a template, say), rename it and drop it into DATUM: it is offered as a new programme named after the file, with the template's team and headings. The template isn't changed.",
-  "publishedAt": "2026-11-19T15:28:20.630Z",
-  "signature": "ME8CGX83dueRY6uDx+ewTJ/GLLsEtSuH/iomKL61z+APL/WIUuZLQkSqk01Eyr4UlltDys3dG9JCVOzlQK6DDg=="
+  "version": "1.2.3",
+  "file": "DATUM-1.2.3.asar",
+  "size": 4427890,
+  "sha256": "c6601a61bea6c0cd0ae7880cc69eaac3902ffb7cd0d21d2d147f44e9398e894c",
+  "notes": "Easier to use: the chart's scroll bar stays at the bottom of the window, buttons and text are bigger, and Save is now at the top right of the Task pop-up (Enter saves too).",
+  "publishedAt": "2026-11-23T12:45:44.794Z",
+  "signature": "fhURxPgBbu6SY7Fl6sLaYL1EWK9EM1TLJ6mS++AnMX8h28Sm+W7RE76vhgfZgdmh2TBC16tLRlb6pCUJUh6PAQ=="
 }

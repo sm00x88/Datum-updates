@@ -1,9 +1,9 @@
 {
-  "version": "1.2.11",
-  "file": "DATUM-Project-1.2.11.asar",
-  "size": 394797,
-  "sha256": "12240cf1b98c385e469175e588a1be5bc6a6ec42b0d6f3bee543c4913ba008d9",
-  "notes": "Fixes an error box (\"Object has been destroyed\") that could appear when DATUM Project was opened again while it was still closing.",
-  "publishedAt": "2026-11-13T15:10:16.531Z",
-  "signature": "WiV7lcJRggrnZSUXTlErQSIMKxJG5rH8s2DctIuBCfpRr29RtdqIzMoMifxeSnuVEZAq914qt2NOBKiwBwgwCw=="
+  "version": "1.2.12",
+  "file": "DATUM-Project-1.2.12.asar",
+  "size": 399817,
+  "sha256": "936390624ce4ceb1593ded71b060fa7ab22a33a108a43c11af02b209a6e54ef2",
+  "notes": "Easier to use: the chart's scroll bar stays at the bottom of the window, buttons and text are bigger, and Save is now at the top right of the Task pop-up (Enter saves too).",
+  "publishedAt": "2026-11-23T12:45:53.300Z",
+  "signature": "yxKqvBl7uJ4/ep6ubIWhRGnhpoRPU+Bsm9ogiDQu4GMVzs6jEUxrYqMtr1tYIhobR9PJQu5/r5nZ+0KaKnmZAA=="
 }
