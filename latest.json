@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
-  "file": "DATUM-1.2.3.asar",
-  "size": 4427890,
-  "sha256": "c6601a61bea6c0cd0ae7880cc69eaac3902ffb7cd0d21d2d147f44e9398e894c",
-  "notes": "Easier to use: the chart's scroll bar stays at the bottom of the window, buttons and text are bigger, and Save is now at the top right of the Task pop-up (Enter saves too).",
-  "publishedAt": "2026-11-23T12:45:44.794Z",
-  "signature": "fhURxPgBbu6SY7Fl6sLaYL1EWK9EM1TLJ6mS++AnMX8h28Sm+W7RE76vhgfZgdmh2TBC16tLRlb6pCUJUh6PAQ=="
+  "version": "1.2.4",
+  "file": "DATUM-1.2.4.asar",
+  "size": 4445132,
+  "sha256": "953e8482cbe89dfa3f34fe5df13a1ec9025d294edfe65eadfe0f1362c86d3892",
+  "notes": "Tidier and easier to read: Project Settings has Cancel and Save at the top right with Clear all at the bottom; clearer chart header; quieter task list with a draggable divider; shorter header with a Details button; DATUM's own confirm boxes; plainer wording and a one-line overview in Studio.",
+  "publishedAt": "2026-11-23T14:36:21.433Z",
+  "signature": "8AOPI+YRJF16bDJkXZfY8EONeaQ5iJyLkHhaoPgV7Lf/XEbkzc/jixJ8npLqnfvLYH2Kd3zYrYwbCdmkK27OAw=="
 }
