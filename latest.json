@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "file": "DATUM-1.2.4.asar",
-  "size": 4445132,
-  "sha256": "953e8482cbe89dfa3f34fe5df13a1ec9025d294edfe65eadfe0f1362c86d3892",
-  "notes": "Tidier and easier to read: Project Settings has Cancel and Save at the top right with Clear all at the bottom; clearer chart header; quieter task list with a draggable divider; shorter header with a Details button; DATUM's own confirm boxes; plainer wording and a one-line overview in Studio.",
-  "publishedAt": "2026-11-23T14:36:21.433Z",
-  "signature": "8AOPI+YRJF16bDJkXZfY8EONeaQ5iJyLkHhaoPgV7Lf/XEbkzc/jixJ8npLqnfvLYH2Kd3zYrYwbCdmkK27OAw=="
+  "version": "1.2.6",
+  "file": "DATUM-1.2.6.asar",
+  "size": 4453167,
+  "sha256": "d2cb9deacfe4235abb6ba4d2b4219db5dc3e686b94eca114f96a2f4ab222dc3d",
+  "notes": "Costs opens as a pop-up; click active today or overdue to see which tasks; hover a task to delete it; header details open to start with; plus last round's tidy-up.",
+  "publishedAt": "2026-11-23T15:26:54.608Z",
+  "signature": "i/Abv0dYN4AeQeWdTHISvN1Y4GPZnMinVzKPVwDeFY6K1VQRn6q+WBaJJzR+nZBLC6akVz3KMesyhLgsR28cBA=="
 }

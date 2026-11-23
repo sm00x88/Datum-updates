@@ -1,9 +1,9 @@
 {
-  "version": "1.2.13",
-  "file": "DATUM-Project-1.2.13.asar",
-  "size": 412192,
-  "sha256": "c16f6a46c877d3fe661b35ab68a297ff5f176650497e026bfba33013ba985deb",
-  "notes": "Tidier and easier to read: Project Settings has Cancel and Save at the top right with Clear all at the bottom; clearer chart header; quieter task list with a draggable divider; shorter header with a Details button; DATUM's own confirm boxes.",
-  "publishedAt": "2026-11-23T14:36:22.123Z",
-  "signature": "XiBic0Z/+mZQliwuzonYHw5EgwF+JTYa9LXmvFIsdAl7kGGULMhTEHgVycmU28itsVt77pLwroYbBLZyVVakBw=="
+  "version": "1.2.15",
+  "file": "DATUM-Project-1.2.15.asar",
+  "size": 420139,
+  "sha256": "ec5966b9339ecb0bbf4b91b449f7f2c59c5d844b19eef650303fbb3392df1928",
+  "notes": "Costs opens as a pop-up; click active today or overdue to see which tasks; hover a task to delete it; header details open to start with; plus last round's tidy-up.",
+  "publishedAt": "2026-11-23T15:26:54.896Z",
+  "signature": "9d6PmmCO3pV+M1LVfvCPetBalTv0CiRf6aDI6QYwxZdHKIU+5SusWfK1zvEzCzPvN7htXPnsZ6iAXNdQ975QBQ=="
 }
