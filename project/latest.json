@@ -1,9 +1,9 @@
 {
-  "version": "1.2.15",
-  "file": "DATUM-Project-1.2.15.asar",
-  "size": 420139,
-  "sha256": "ec5966b9339ecb0bbf4b91b449f7f2c59c5d844b19eef650303fbb3392df1928",
-  "notes": "Costs opens as a pop-up; click active today or overdue to see which tasks; hover a task to delete it; header details open to start with; plus last round's tidy-up.",
-  "publishedAt": "2026-11-23T15:26:54.896Z",
-  "signature": "9d6PmmCO3pV+M1LVfvCPetBalTv0CiRf6aDI6QYwxZdHKIU+5SusWfK1zvEzCzPvN7htXPnsZ6iAXNdQ975QBQ=="
+  "version": "1.2.16",
+  "file": "DATUM-Project-1.2.16.asar",
+  "size": 421020,
+  "sha256": "0f9a5eadaf743c155e1beb89a69b530d9545c017e71ce756786fb44de104883c",
+  "notes": "Fix: the active / overdue list now closes when you click away; a tall list no longer covers its own figure.",
+  "publishedAt": "2026-11-23T15:59:31.442Z",
+  "signature": "cDlnAtpPEkoHzxNYytMtu0a6HJ3B6zwpNi64egX4+KjF/CZAyngKMjoaWhaCjKZ7/jiv32Ff8FbD6tsZJuOBAg=="
 }
